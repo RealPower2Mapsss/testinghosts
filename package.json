@@ -1,0 +1,18 @@
+{
+  "name": "testing-hosts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^8.3.0",
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "quick.db": "^9.1.6"
+  }
+}
